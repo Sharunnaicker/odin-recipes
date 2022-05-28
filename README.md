@@ -1,2 +1,4 @@
 # odin-recipes
-The main goal of this project is to be able to create a simple website using what I have learned in The Odin Project course. I will only be using HTML for the creation of this website. 
+Pre Project Notes: The main goal of this project is to be able to create a simple website using what I have learned in The Odin Project course. I will only be using HTML for the creation of this website. 
+
+Post Project Notes: I have finished my first project from The Odin Project and I feel like I have a solid understanding of how to utilize different elemnts of HTML as well as how to stage and push commit through the terminal. Overall I had a really time with this project and it was great to be able to use eveything I have learned thus far. Looking foreward to all the other projects I will be working on. 
